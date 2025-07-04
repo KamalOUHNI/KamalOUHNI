@@ -40,7 +40,7 @@ MySQL, PostgreSQL, MongoDB, Amazon Redshift
 
 ---
 
-![Kamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamalou7&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamalou7&hide=TeX&layout=compact)
+![Kamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KamalOUHNI&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamalOUHNI&hide=TeX&layout=compact)
 
-![Visitors Count](https://komarev.com/ghpvc/?username=kamalou7)
+![Visitors Count](https://komarev.com/ghpvc/?username=KamalOUHNI)
