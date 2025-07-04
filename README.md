@@ -17,7 +17,7 @@ Later, during an academic project, I was introduced to **machine learning**—an
 - 🌱 Always learning – currently deepening my knowledge in **orchestration tools** like **Apache Airflow** and **data infrastructure design**.
 - ☁️ First steps in **cloud computing** (AWS & GCP basics).
 - 💬 I enjoy collaborating on data-driven projects and mentoring when I can.
-- 📫 Reach me: **kamal.oufni@gmail.com**
+- 📫 Reach me: **kamalouhni192@gmail.com**
 
 ---
 
